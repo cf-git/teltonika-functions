@@ -1,6 +1,8 @@
 # teltonika-functions
 Teltonika parse functions for php
 
+
+===
 To understand
 ```hex
 0000 0000 0000 03f3
