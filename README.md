@@ -4,7 +4,7 @@ Teltonika parse functions for php
 
 ===
 To understand
-```hex
+``
 0000 0000 0000 03f3
 
 08					- codec;
@@ -180,4 +180,4 @@ b300 f000 1500 0209
 1d04 
      10 			- Datas count - number of data
        0000 d8bb	- crc
-```
+``
